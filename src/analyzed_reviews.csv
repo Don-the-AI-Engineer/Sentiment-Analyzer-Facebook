@@ -1,0 +1,7 @@
+company,review_text,rating,created_time,sentiment,score
+Dialog,"Great network coverage, highly recommend!",5,2024-04-01T10:30:00+0000,POSITIVE,0.8914495706558228
+Dialog,"Terrible customer service, very disappointed.",1,2024-03-15T15:45:00+0000,NEGATIVE,0.830915093421936
+Dialog,"Average experience, but good value for money.",3,2024-05-20T12:00:00+0000,NEUTRAL,0.6095831394195557
+Dialog,"Not worth the price, very expensive for what you get.",2,2024-06-10T09:20:00+0000,NEGATIVE,0.5385348200798035
+Dialog,Excellent customer support and amazing quality!,5,2024-07-05T14:00:00+0000,POSITIVE,0.9108853936195374
+Dialog,"Good speed, but customer service could be improved.",4,2024-08-01T11:00:00+0000,NEUTRAL,0.5227523446083069

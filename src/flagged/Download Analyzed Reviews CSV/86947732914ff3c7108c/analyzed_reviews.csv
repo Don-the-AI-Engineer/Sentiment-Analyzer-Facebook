@@ -1,0 +1,4 @@
+company,review_text,rating,created_time,sentiment,score
+SLT,The internet connection is reliable and fast!,5,2024-04-10T08:00:00+0000,POSITIVE,0.6181721091270447
+SLT,"Support takes a while to respond, but overall okay service.",3,2024-05-05T11:20:00+0000,NEUTRAL,0.6761040687561035
+SLT,"Frequent outages, not satisfied.",2,2024-06-15T13:50:00+0000,NEGATIVE,0.4662521481513977

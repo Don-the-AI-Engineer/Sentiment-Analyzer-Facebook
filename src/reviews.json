@@ -1,0 +1,116 @@
+[
+    {
+        "company": "Dialog",
+        "review_text": "Great network coverage, highly recommend!",
+        "rating": 5,
+        "created_time": "2024-04-01T10:30:00+0000"
+    },
+    {
+        "company": "Dialog",
+        "review_text": "Terrible customer service, very disappointed.",
+        "rating": 1,
+        "created_time": "2024-03-15T15:45:00+0000"
+    },
+    {
+        "company": "Dialog",
+        "review_text": "Average experience, but good value for money.",
+        "rating": 3,
+        "created_time": "2024-05-20T12:00:00+0000"
+    },
+    {
+        "company": "Dialog",
+        "review_text": "Not worth the price, very expensive for what you get.",
+        "rating": 2,
+        "created_time": "2024-06-10T09:20:00+0000"
+    },
+    {
+        "company": "Dialog",
+        "review_text": "Excellent customer support and amazing quality!",
+        "rating": 5,
+        "created_time": "2024-07-05T14:00:00+0000"
+    },
+    {
+        "company": "SLT",
+        "review_text": "The internet connection is reliable and fast!",
+        "rating": 5,
+        "created_time": "2024-04-10T08:00:00+0000"
+    },
+    {
+        "company": "SLT",
+        "review_text": "Support takes a while to respond, but overall okay service.",
+        "rating": 3,
+        "created_time": "2024-05-05T11:20:00+0000"
+    },
+    {
+        "company": "SLT",
+        "review_text": "Frequent outages, not satisfied.",
+        "rating": 2,
+        "created_time": "2024-06-15T13:50:00+0000"
+    },
+    {
+        "company": "Elephant House",
+        "review_text": "Best ice cream I have ever tasted!",
+        "rating": 5,
+        "created_time": "2024-05-01T10:00:00+0000"
+    },
+    {
+        "company": "Elephant House",
+        "review_text": "Quality is good, but prices have gone up recently.",
+        "rating": 4,
+        "created_time": "2024-06-20T09:15:00+0000"
+    },
+    {
+        "company": "Elephant House",
+        "review_text": "Not as creamy as it used to be.",
+        "rating": 3,
+        "created_time": "2024-07-01T12:10:00+0000"
+    },
+    {
+        "company": "Mobitel",
+        "review_text": "Affordable packages, but coverage could be better.",
+        "rating": 3,
+        "created_time": "2024-04-25T14:30:00+0000"
+    },
+    {
+        "company": "Mobitel",
+        "review_text": "Great customer service and value for money!",
+        "rating": 5,
+        "created_time": "2024-05-15T16:00:00+0000"
+    },
+    {
+        "company": "Mobitel",
+        "review_text": "Network speed is slow during peak hours.",
+        "rating": 2,
+        "created_time": "2024-06-30T18:20:00+0000"
+    },
+    {
+        "company": "Mobitel",
+        "review_text": "The service is okay, nothing exceptional.",
+        "rating": 3,
+        "created_time": "2024-07-10T13:00:00+0000"
+    },
+    {
+        "company": "Dialog",
+        "review_text": "Good speed, but customer service could be improved.",
+        "rating": 4,
+        "created_time": "2024-08-01T11:00:00+0000"
+    },
+    {
+        "company": "SLT",
+        "review_text": "Pricing is too high for the quality provided.",
+        "rating": 2,
+        "created_time": "2024-08-10T10:00:00+0000"
+    },
+    {
+        "company": "Elephant House",
+        "review_text": "Delicious ice cream, but the price increase is disappointing.",
+        "rating": 4,
+        "created_time": "2024-08-15T15:30:00+0000"
+    },
+    {
+        "company": "Mobitel",
+        "review_text": "Customer support was very helpful with my issues.",
+        "rating": 5,
+        "created_time": "2024-08-20T12:00:00+0000"
+    }
+]
