@@ -4,8 +4,8 @@ Created by **Gimhan Dayarathna**, this repository contains the Facebook Reviews 
 
 ## Table of Contents
 1. [Environment Setup](#environment-setup)
-    1.1. [Conda Environment Creation](#conda-environment-creation)
-    1.2. [Dependencies Installation](#dependencies-installation)
+    - [Conda Environment Creation](#conda-environment-creation)
+    - [Dependencies Installation](#dependencies-installation)
 2. [Running the Chatbot](#running-the-chatbot)
 3. [Facebook Account Ban](#facebook-account-ban)
 
